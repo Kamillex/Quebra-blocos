@@ -1,0 +1,2 @@
+PAUSE
+Primeiro eu declarei uma variável chamada let pausado = false
